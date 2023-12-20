@@ -32,6 +32,8 @@ Another approach is to use something similar map reduce of HDFS.
 ### Example Usage
 This program can be executed by running the main method of CodingChallenge java class. It expects the input file to be present in the resouces folder and takes the file name as input and writes to the output.csv file in the same directory. 
 
+
+
 ## Approach and the amount of time spent
 
 I spent a good 4 hours on this whole assignment,
