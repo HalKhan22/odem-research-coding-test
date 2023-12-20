@@ -4,8 +4,7 @@
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Usage](#usage)
-    - [Example Usage](#example-usage)
+- [Example Usage](#example-usage)
 - [Approach and the amount of time spent](#Approach and the amount of time spent)
 
 
