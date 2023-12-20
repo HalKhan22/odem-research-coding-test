@@ -1,11 +1,5 @@
 # odem-research-coding-test
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Example Usage](#example-usage)
-- [Approach and the amount of time spent](#Approach and the amount of time spent)
 
 
 ## Introduction
